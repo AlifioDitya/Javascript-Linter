@@ -19,11 +19,11 @@ Parsing dilakukan menggunakan metode CYK (Cocke, Younger, Kasami) dengan menguba
 ## Cara Menjalankan Program
 1. Clone repository
     ```bash
-    $ git clone https://github.com/Rinaldy-Adin/tubes-tbfo-bob.git
+    $ git clone https://github.com/AlifioDitya/Javascript-Linter.git
     ```
 2. Masuk ke dalam folder project
     ```bash
-    $ cd tubes-tbfo-bob
+    $ cd Javascript-Linter
     ```
 3. Jalankan program
     ```bash
@@ -31,7 +31,7 @@ Parsing dilakukan menggunakan metode CYK (Cocke, Younger, Kasami) dengan menguba
     ```
 ## Struktur Folder
 ```
-tubes-tbfo-bob
+Javascript-Linter
 ├── config
 │   └── CFG.txt
 ├── out.txt
